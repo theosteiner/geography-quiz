@@ -44,7 +44,7 @@ public class AmericasGUI implements GUI
 	{
 		try
 		{
-			image = ImageIO.read(new File("bin/am/americasmap.png"));
+			image = ImageIO.read(new File("images/am/americasmap.png"));
 		}
 		catch(IOException e)
 		{
