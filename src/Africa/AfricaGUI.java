@@ -36,7 +36,7 @@ public class AfricaGUI implements GUI
 	{
 		try
 		{
-			image = ImageIO.read(new File("bin/af/africamap.png"));
+			image = ImageIO.read(new File("images/af/africamap.png"));
 		}
 		catch(IOException e)
 		{
