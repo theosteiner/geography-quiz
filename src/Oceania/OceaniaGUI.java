@@ -39,7 +39,7 @@ public class OceaniaGUI implements GUI
 	{
 		try
 		{
-			image = ImageIO.read(new File("bin/oc/oceaniamap.png"));
+			image = ImageIO.read(new File("images/oc/oceaniamap.png"));
 		}
 		catch(IOException e)
 		{
