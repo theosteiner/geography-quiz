@@ -39,7 +39,7 @@ public class AsiaGUI implements GUI
 	{
 		try
 		{
-			image = ImageIO.read(new File("bin/as/asiamap.png"));
+			image = ImageIO.read(new File("images/as/asiamap.png"));
 		}
 		catch(IOException e)
 		{
