@@ -10,7 +10,7 @@ public class OceaniaQuiz extends Quiz
 	public OceaniaQuiz()
 	{
 		super();
-		final File f = new File("bin/oc/oceaniamap.png");
+		final File f = new File("images/oc/oceaniamap.png");
 		quizDialog.addWindowListener(new WindowAdapter()
 		{
 			@Override
@@ -37,59 +37,59 @@ public class OceaniaQuiz extends Quiz
 			switch (pickRandomCountry().getName())
 			{
 				case "Australia":
-					file = new File("bin/oc/australia.png");
+					file = new File("images/oc/australia.png");
 					gui.setImage(file);
 					break;
 				case "Fiji":
-					file = new File("bin/oc/fiji.png");
+					file = new File("images/oc/fiji.png");
 					gui.setImage(file);
 					break;
 				case "Kiribati":
-					file = new File("bin/oc/kiribati.png");
+					file = new File("images/oc/kiribati.png");
 					gui.setImage(file);
 					break;
 				case "Marshall Islands":
-					file = new File("bin/oc/marshallislands.png");
+					file = new File("images/oc/marshallislands.png");
 					gui.setImage(file);
 					break;
 				case "Micronesia":
-					file = new File("bin/oc/micronesia.png");
+					file = new File("images/oc/micronesia.png");
 					gui.setImage(file);
 					break;
 				case "Nauru":
-					file = new File("bin/oc/nauru.png");
+					file = new File("images/oc/nauru.png");
 					gui.setImage(file);
 					break;
 				case "New Zealand":
-					file = new File("bin/oc/newzealand.png");
+					file = new File("images/oc/newzealand.png");
 					gui.setImage(file);
 					break;
 				case "Palau":
-					file = new File("bin/oc/palau.png");
+					file = new File("images/oc/palau.png");
 					gui.setImage(file);
 					break;
 				case "Papua New Guinea":
-					file = new File("bin/oc/papuanewguinea.png");
+					file = new File("images/oc/papuanewguinea.png");
 					gui.setImage(file);
 					break;
 				case "Samoa":
-					file = new File("bin/oc/samoa.png");
+					file = new File("images/oc/samoa.png");
 					gui.setImage(file);
 					break;
 				case "Solomon Islands":
-					file = new File("bin/oc/solomonislands.png");
+					file = new File("images/oc/solomonislands.png");
 					gui.setImage(file);
 					break;
 				case "Tonga":
-					file = new File("bin/oc/tonga.png");
+					file = new File("images/oc/tonga.png");
 					gui.setImage(file);
 					break;
 				case "Tuvalu":
-					file = new File("bin/oc/tuvalu.png");
+					file = new File("images/oc/tuvalu.png");
 					gui.setImage(file);
 					break;
 				case "Vanuatu":
-					file = new File("bin/oc/vanuatu.png");
+					file = new File("images/oc/vanuatu.png");
 					gui.setImage(file);
 					break;
 			}
