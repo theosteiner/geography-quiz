@@ -39,7 +39,7 @@ public class EuropeGUI implements GUI
 	{
 		try
 		{
-			image = ImageIO.read(new File("bin/eu/europemap.png"));
+			image = ImageIO.read(new File("images/eu/europemap.png"));
 		}
 		catch(IOException e)
 		{
