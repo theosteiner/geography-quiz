@@ -10,7 +10,7 @@ public class EuropeQuiz extends Quiz
 	public EuropeQuiz()
 	{
 		super();
-		final File f = new File("bin/eu/europemap.png");
+		final File f = new File("images/eu/europemap.png");
 		quizDialog.addWindowListener(new WindowAdapter()
 		{
 			@Override
@@ -37,191 +37,191 @@ public class EuropeQuiz extends Quiz
 			switch (pickRandomCountry().getName())
 			{
 				case "Albania":
-					file = new File("bin/eu/albania.png");
+					file = new File("images/eu/albania.png");
 					gui.setImage(file);
 					break;
 				case "Andorra":
-					file = new File("bin/eu/andorra.png");
+					file = new File("images/eu/andorra.png");
 					gui.setImage(file);
 					break;
 				case "Austria":
-					file = new File("bin/eu/austria.png");
+					file = new File("images/eu/austria.png");
 					gui.setImage(file);
 					break;
 				case "Belarus":
-					file = new File("bin/eu/belarus.png");
+					file = new File("images/eu/belarus.png");
 					gui.setImage(file);
 					break;
 				case "Belgium":
-					file = new File("bin/eu/belgium.png");
+					file = new File("images/eu/belgium.png");
 					gui.setImage(file);
 					break;
 				case "Bosnia and Herzegovina":
-					file = new File("bin/eu/bosnia.png");
+					file = new File("images/eu/bosnia.png");
 					gui.setImage(file);
 					break;
 				case "Bulgaria":
-					file = new File("bin/eu/bulgaria.png");
+					file = new File("images/eu/bulgaria.png");
 					gui.setImage(file);
 					break;
 				case "Croatia":
-					file = new File("bin/eu/croatia.png");
+					file = new File("images/eu/croatia.png");
 					gui.setImage(file);
 					break;
 				case "Cyprus":
-					file = new File("bin/eu/cyprus.png");
+					file = new File("images/eu/cyprus.png");
 					gui.setImage(file);
 					break;
 				case "Czechia":
-					file = new File("bin/eu/czechia.png");
+					file = new File("images/eu/czechia.png");
 					gui.setImage(file);
 					break;
 				case "Denmark":
-					file = new File("bin/eu/denmark.png");
+					file = new File("images/eu/denmark.png");
 					gui.setImage(file);
 					break;
 				case "Estonia":
-					file = new File("bin/eu/estonia.png");
+					file = new File("images/eu/estonia.png");
 					gui.setImage(file);
 					break;
 				case "Finland":
-					file = new File("bin/eu/finland.png");
+					file = new File("images/eu/finland.png");
 					gui.setImage(file);
 					break;
 				case "France":
-					file = new File("bin/eu/france.png");
+					file = new File("images/eu/france.png");
 					gui.setImage(file);
 					break;
 				case "Germany":
-					file = new File("bin/eu/germany.png");
+					file = new File("images/eu/germany.png");
 					gui.setImage(file);
 					break;
 				case "Greece":
-					file = new File("bin/eu/greece.png");
+					file = new File("images/eu/greece.png");
 					gui.setImage(file);
 					break;
 				case "Hungary":
-					file = new File("bin/eu/hungary.png");
+					file = new File("images/eu/hungary.png");
 					gui.setImage(file);
 					break;
 				case "Iceland":
-					file = new File("bin/eu/iceland.png");
+					file = new File("images/eu/iceland.png");
 					gui.setImage(file);
 					break;
 				case "Ireland":
-					file = new File("bin/eu/ireland.png");
+					file = new File("images/eu/ireland.png");
 					gui.setImage(file);
 					break;
 				case "Italy":
-					file = new File("bin/eu/italy.png");
+					file = new File("images/eu/italy.png");
 					gui.setImage(file);
 					break;
 				case "Kosovo":
-					file = new File("bin/eu/kosovo.png");
+					file = new File("images/eu/kosovo.png");
 					gui.setImage(file);
 					break;
 				case "Latvia":
-					file = new File("bin/eu/latvia.png");
+					file = new File("images/eu/latvia.png");
 					gui.setImage(file);
 					break;
 				case "Liechtenstein":
-					file = new File("bin/eu/liechtenstein.png");
+					file = new File("images/eu/liechtenstein.png");
 					gui.setImage(file);
 					break;
 				case "Lithuania":
-					file = new File("bin/eu/lithuania.png");
+					file = new File("images/eu/lithuania.png");
 					gui.setImage(file);
 					break;
 				case "Luxembourg":
-					file = new File("bin/eu/luxembourg.png");
+					file = new File("images/eu/luxembourg.png");
 					gui.setImage(file);
 					break;
 				case "Macedonia":
-					file = new File("bin/eu/macedonia.png");
+					file = new File("images/eu/macedonia.png");
 					gui.setImage(file);
 					break;
 				case "Malta":
-					file = new File("bin/eu/malta.png");
+					file = new File("images/eu/malta.png");
 					gui.setImage(file);
 					break;
 				case "Moldova":
-					file = new File("bin/eu/moldova.png");
+					file = new File("images/eu/moldova.png");
 					gui.setImage(file);
 					break;
 				case "Monaco":
-					file = new File("bin/eu/monaco.png");
+					file = new File("images/eu/monaco.png");
 					gui.setImage(file);
 					break;
 				case "Montenegro":
-					file = new File("bin/eu/montenegro.png");
+					file = new File("images/eu/montenegro.png");
 					gui.setImage(file);
 					break;
 				case "Netherlands":
-					file = new File("bin/eu/netherlands.png");
+					file = new File("images/eu/netherlands.png");
 					gui.setImage(file);
 					break;
 				case "Norway":
-					file = new File("bin/eu/norway.png");
+					file = new File("images/eu/norway.png");
 					gui.setImage(file);
 					break;
 				case "Poland":
-					file = new File("bin/eu/poland.png");
+					file = new File("images/eu/poland.png");
 					gui.setImage(file);
 					break;
 				case "Portugal":
-					file = new File("bin/eu/portugal.png");
+					file = new File("images/eu/portugal.png");
 					gui.setImage(file);
 					break;
 				case "Romania":
-					file = new File("bin/eu/romania.png");
+					file = new File("images/eu/romania.png");
 					gui.setImage(file);
 					break;
 				case "Russia":
-					file = new File("bin/eu/russia.png");
+					file = new File("images/eu/russia.png");
 					gui.setImage(file);
 					break;
 				case "San Marino":
-					file = new File("bin/eu/sanmarino.png");
+					file = new File("images/eu/sanmarino.png");
 					gui.setImage(file);
 					break;
 				case "Serbia":
-					file = new File("bin/eu/serbia.png");
+					file = new File("images/eu/serbia.png");
 					gui.setImage(file);
 					break;
 				case "Slovakia":
-					file = new File("bin/eu/slovakia.png");
+					file = new File("images/eu/slovakia.png");
 					gui.setImage(file);
 					break;
 				case "Slovenia":
-					file = new File("bin/eu/slovenia.png");
+					file = new File("images/eu/slovenia.png");
 					gui.setImage(file);
 					break;
 				case "Spain":
-					file = new File("bin/eu/spain.png");
+					file = new File("images/eu/spain.png");
 					gui.setImage(file);
 					break;
 				case "Sweden":
-					file = new File("bin/eu/sweden.png");
+					file = new File("images/eu/sweden.png");
 					gui.setImage(file);
 					break;
 				case "Switzerland":
-					file = new File("bin/eu/switzerland.png");
+					file = new File("images/eu/switzerland.png");
 					gui.setImage(file);
 					break;
 				case "Turkey":
-					file = new File("bin/eu/turkey.png");
+					file = new File("images/eu/turkey.png");
 					gui.setImage(file);
 					break;
 				case "Ukraine":
-					file = new File("bin/eu/ukraine.png");
+					file = new File("images/eu/ukraine.png");
 					gui.setImage(file);
 					break;
 				case "United Kingdom":
-					file = new File("bin/eu/uk.png");
+					file = new File("images/eu/uk.png");
 					gui.setImage(file);
 					break;
 				case "Vatican City":
-					file = new File("bin/eu/vaticancity.png");
+					file = new File("images/eu/vaticancity.png");
 					gui.setImage(file);
 					break;
 			}
