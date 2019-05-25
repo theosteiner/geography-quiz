@@ -147,5 +147,6 @@ public class AmericasGUI implements GUI
 		});
 
 		pane.add(btn);
+		pane.revalidate();
 	}
 }
