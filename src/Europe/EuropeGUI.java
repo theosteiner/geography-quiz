@@ -142,5 +142,6 @@ public class EuropeGUI implements GUI
 		});
 
 		pane.add(btn);
+		pane.revalidate();
 	}
 }
