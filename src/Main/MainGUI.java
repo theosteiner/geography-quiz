@@ -136,6 +136,7 @@ public class MainGUI
 		panel.add(text);
 		panel.setBounds(65, 25, 250, 50);
 		pane.add(panel);
+		pane.revalidate();
 
 		setUpButtonListeners();
 	}
