@@ -43,7 +43,7 @@ public abstract class Quiz implements ActionListener
 		if (instance == 0)
 		{
 			quizDialog.setTitle(name + " Quiz");
-
+			
 			pane = quizDialog.getContentPane();
 			pane.setLayout(null);
 
@@ -80,7 +80,6 @@ public abstract class Quiz implements ActionListener
 			pane.add(bottom);
 			pane.repaint();
 			pane.add(top);
-			pane.repaint();
 
 			nextPanel = new JPanel();
 			nextPanel.setBounds(0, 375, MainGUI.DIALOG_WIDTH, 50);
@@ -88,9 +87,8 @@ public abstract class Quiz implements ActionListener
 			next.setFont(new Font("Courier", Font.PLAIN, 20));
 
 			nextPanel.add(next);
-			nextPanel.repaint();
 			pane.add(nextPanel);
-			pane.repaint();
+			pane.revalidate();
 
 			box1.addActionListener(this);
 			next.addActionListener(this);
