@@ -142,5 +142,6 @@ public class OceaniaGUI implements GUI
 		});
 
 		pane.add(btn);
+		pane.revalidate();
 	}
 }
