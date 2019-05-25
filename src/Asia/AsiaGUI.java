@@ -142,5 +142,6 @@ public class AsiaGUI implements GUI
 		});
 
 		pane.add(btn);
+		pane.revalidate();
 	}
 }
