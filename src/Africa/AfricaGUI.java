@@ -139,5 +139,6 @@ public class AfricaGUI implements GUI
 		});
 
 		pane.add(btn);
+		pane.revalidate();
 	}
 }
