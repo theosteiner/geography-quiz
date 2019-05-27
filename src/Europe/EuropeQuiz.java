@@ -136,7 +136,7 @@ public class EuropeQuiz extends Quiz
 					file = new File("images/eu/luxembourg.png");
 					gui.setImage(file);
 					break;
-				case "Macedonia":
+				case "North Macedonia":
 					file = new File("images/eu/macedonia.png");
 					gui.setImage(file);
 					break;
