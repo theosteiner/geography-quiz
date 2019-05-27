@@ -19,7 +19,7 @@ public class Europe extends Continent
 								   new Country("Ireland", "Dublin"), new Country("Italy", "Rome"), 
 								   new Country("Kosovo", "Pristina"), new Country("Latvia", "Riga"), 
 								   new Country("Liechtenstein", "Vaduz"), new Country("Lithuania", "Vilnius"), 
-								   new Country("Luxembourg", "Luxembourg City"), new Country("Macedonia", "Skopje"), 
+								   new Country("Luxembourg", "Luxembourg City"), new Country("North Macedonia", "Skopje"), 
 								   new Country("Malta", "Valletta"), new Country("Moldova", "Chisinau"), 
 								   new Country("Monaco", "Monaco"), new Country("Montenegro", "Podgorica"), 
 								   new Country("Netherlands", "Amsterdam"), new Country("Norway", "Oslo"), 
