@@ -9,7 +9,7 @@ public class Africa extends Continent
 	{
 		countries = new Country[] {new Country("Algeria", "Algiers"), new Country("Angola", "Luanda"), 
 					 			   new Country("Benin", "Porto-Novo"), new Country("Botswana", "Gaborone"), 
-					 			   new Country("Burkina Faso", "Ouagadougou"), new Country("Burundi", "Bujumbura"), 
+					 			   new Country("Burkina Faso", "Ouagadougou"), new Country("Burundi", "Gitega"), 
 					 			   new Country("Cameroon", "Yaounde"), new Country("Cape Verde", "Praia"), 
 					 			   new Country("Central African Republic", "Bangui"), new Country("Chad", "N'Djamena"), 
 					 			   new Country("Comoros", "Moroni"), new Country("Democratic Republic of the Congo", "Kinshasa"), 
