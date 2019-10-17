@@ -30,7 +30,7 @@ public class Africa extends Continent
 					 			   new Country("Senegal", "Dakar"), new Country("Seychelles", "Victoria"), 
 					 			   new Country("Sierra Leone", "Freetown"), new Country("Somalia", "Mogadishu"), 
 					 			   new Country("South Africa", "Pretoria, Cape Town, and Bloemfontein"), new Country("South Sudan", "Juba"), 
-					 			   new Country("Sudan", "Khartoum"), new Country("Swaziland", "Mbabane and Lobamba"), 
+					 			   new Country("Sudan", "Khartoum"), new Country("Eswatini", "Mbabane and Lobamba"), 
 					 			   new Country("Tanzania", "Dodoma"), new Country("Togo", "Lome"), 
 					 			   new Country("Tunisia", "Tunis"), new Country("Uganda", "Kampala"), 
 					 			   new Country("Zambia", "Lusaka"), new Country("Zimbabwe", "Harare")};

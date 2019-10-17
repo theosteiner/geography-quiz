@@ -224,7 +224,7 @@ public class AfricaQuiz extends Quiz
 					file = new File("images/af/sudan.png");
 					gui.setImage(file);
 					break;
-				case "Swaziland":
+				case "Eswatini":
 					file = new File("images/af/swaziland.png");
 					gui.setImage(file);
 					break;
