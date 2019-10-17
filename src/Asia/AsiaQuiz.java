@@ -164,10 +164,6 @@ public class AsiaQuiz extends Quiz
 					file = new File("images/as/pakistan.png");
 					gui.setImage(file);
 					break;
-				case "Palestine":
-					file = new File("images/as/palestine.png");
-					gui.setImage(file);
-					break;
 				case "Philippines":
 					file = new File("images/as/philippines.png");
 					gui.setImage(file);
