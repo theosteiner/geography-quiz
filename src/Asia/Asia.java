@@ -16,7 +16,7 @@ public class Asia extends Continent
 								   new Country("India", "New Delhi"), new Country("Indonesia", "Jakarta"), 
 								   new Country("Iran", "Tehran"), new Country("Iraq", "Baghdad"), 
 								   new Country("Israel", "Jerusalem"), new Country("Japan", "Tokyo"), 
-								   new Country("Jordan", "Amman"), new Country("Kazakhstan", "Astana"), 
+								   new Country("Jordan", "Amman"), new Country("Kazakhstan", "Nur-Sultan"), 
 								   new Country("Kuwait", "Kuwait City"), new Country("Kyrgyzstan", "Bishkek"), 
 								   new Country("Laos", "Vientiane"), new Country("Lebanon", "Beirut"), 
 								   new Country("Malaysia", "Kuala Lumpur"), new Country("Maldives", "Male"), 
